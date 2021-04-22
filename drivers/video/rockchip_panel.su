@@ -1,0 +1,9 @@
+rockchip_panel.c:127:1:rockchip_get_display_mode_from_panel	0	static
+rockchip_panel.c:138:30:rockchip_get_panel	96	static
+rockchip_panel.c:156:5:rockchip_panel_init	16	static
+rockchip_panel.c:169:6:rockchip_panel_deinit	16	static
+rockchip_panel.c:182:5:rockchip_panel_prepare	16	static
+rockchip_panel.c:195:5:rockchip_panel_unprepare	16	static
+rockchip_panel.c:208:5:rockchip_panel_getId	16	static
+rockchip_panel.c:221:5:rockchip_panel_enable	16	static
+rockchip_panel.c:233:5:rockchip_panel_disable	16	static

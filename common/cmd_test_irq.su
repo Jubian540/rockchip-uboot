@@ -1,0 +1,2 @@
+cmd_test_irq.c:73:12:do_timer_irq	16	static
+cmd_test_irq.c:35:13:timer_irq_handler	32	static

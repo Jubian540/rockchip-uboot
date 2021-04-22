@@ -1,0 +1,2 @@
+ep0.c:112:6:copy_config	32	static
+ep0.c:397:5:ep0_recv_setup	64	static

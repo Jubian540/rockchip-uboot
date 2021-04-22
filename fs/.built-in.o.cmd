@@ -1,0 +1,1 @@
+cmd_fs/built-in.o :=  /data/build/android-rk3399-Industry/u-boot/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.bfd     -r -o fs/built-in.o fs/fs.o fs/fat/built-in.o 

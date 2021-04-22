@@ -1,0 +1,9 @@
+rockchip_dsi_panel.c:186:12:rockchip_dsi_panel_getId	96	static
+rockchip_dsi_panel.c:271:12:rockchip_dsi_panel_enable	16	static
+rockchip_dsi_panel.c:284:12:rockchip_dsi_panel_disable	32	static
+rockchip_dsi_panel.c:149:12:rockchip_dsi_panel_send_cmds	80	static
+rockchip_dsi_panel.c:250:12:rockchip_dsi_panel_unprepare	32	static
+rockchip_dsi_panel.c:222:12:rockchip_dsi_panel_prepare	48	static
+rockchip_dsi_panel.c:429:13:rockchip_dsi_panel_deinit	32	static
+rockchip_dsi_panel.c:78:12:rockchip_dsi_panel_parse_cmds.isra.1	80	static
+rockchip_dsi_panel.c:399:12:rockchip_dsi_panel_init	96	static

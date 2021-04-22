@@ -1,0 +1,7 @@
+rockchip_dw_hdmi.c:336:13:drm_mode_equal	0	static
+rockchip_dw_hdmi.c:366:6:drm_mode_sort	192	static
+rockchip_dw_hdmi.c:425:5:drm_mode_prune_invalid	80	static
+rockchip_dw_hdmi.c:453:6:drm_rk_filter_whitelist	80	static
+rockchip_dw_hdmi.c:473:6:drm_rk_select_mode	64	static
+rockchip_dw_hdmi.c:630:6:drm_rk_selete_output	4608	dynamic,bounded
+rockchip_dw_hdmi.c:709:6:inno_dw_hdmi_set_domain	0	static

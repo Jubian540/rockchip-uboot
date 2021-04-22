@@ -1,0 +1,12 @@
+cmd_rockusb.c:96:6:dwc3_rx_handler	0	static
+cmd_rockusb.c:107:6:dwc3_tx_handler	0	static
+cmd_rockusb.c:189:13:str2wide	48	static
+cmd_rockusb.c:29:5:rkusb_write_bulk_ep	0	static
+cmd_rockusb.c:37:5:rkusb_read_bulk_ep	0	static
+cmd_rockusb.c:45:6:rkusb_event_handler_for_dwc3	32	static
+cmd_rockusb.c:863:12:rkusb_send_csw	32	static
+cmd_rockusb.c:118:6:init_dwc3_udc_instance	64	static
+cmd_rockusb.c:914:6:do_rockusb_cmd	80	static
+cmd_rockusb.c:1060:6:rkusb_handle_datarx	48	static
+cmd_rockusb.c:1220:6:rkusb_handle_datatx	80	static
+cmd_rockusb.c:1555:5:do_rockusb	352	static

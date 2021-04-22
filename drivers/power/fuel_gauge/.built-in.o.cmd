@@ -1,0 +1,1 @@
+cmd_drivers/power/fuel_gauge/built-in.o :=  /data/build/android-rk3399-Industry/u-boot/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.bfd     -r -o drivers/power/fuel_gauge/built-in.o drivers/power/fuel_gauge/fg_cw201x.o drivers/power/fuel_gauge/fg_ricoh619.o drivers/power/fuel_gauge/fg_rk818.o drivers/power/fuel_gauge/fg_rk816.o 

@@ -1,0 +1,7 @@
+serial_rk.c:253:12:rk_serial_tstc	0	static
+serial_rk.c:271:13:rk_serial_setbrg	80	static
+serial_rk.c:259:12:rk_serial_getc	16	static
+serial_rk.c:245:13:rk_serial_putc	32	static
+serial_rk.c:277:12:rk_serial_init	80	static
+serial_rk.c:314:6:rk_serial_initialize	0	static
+serial_rk.c:319:30:default_serial_console	0	static

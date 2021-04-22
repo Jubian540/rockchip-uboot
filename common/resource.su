@@ -1,0 +1,10 @@
+resource.c:76:13:get_entry_ram	96	static
+resource.c:136:6:get_content_ram	336	static
+resource.c:232:6:get_content	912	static
+resource.c:253:6:free_content	32	static
+resource.c:282:6:load_content_data	16	static
+resource.c:260:6:load_content	48	static
+resource.c:293:20:get_bmp_header	320	static
+resource.c:325:5:load_bmp_content	336	static
+resource.c:392:6:_show_resource_image	320	static
+resource.c:471:6:show_resource_image	0	static

@@ -1,0 +1,4 @@
+iomem.c:20:6:iomem_show	80	static
+iomem.c:40:12:iomem_show_by_match	80	static
+iomem.c:84:12:do_iomem_by_match	48	static
+iomem.c:79:6:iomem_show_by_compatible	0	static

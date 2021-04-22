@@ -1,0 +1,1 @@
+cmd_drivers/video/drm/built-in.o :=  /data/build/android-rk3399-Industry/u-boot/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.bfd     -r -o drivers/video/drm/built-in.o drivers/video/drm/rockchip_dw_hdmi.o drivers/video/drm/dw_hdmi.o drivers/video/drm/rk1000.o 

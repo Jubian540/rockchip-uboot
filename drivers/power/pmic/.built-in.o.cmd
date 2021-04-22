@@ -1,0 +1,1 @@
+cmd_drivers/power/pmic/built-in.o :=  /data/build/android-rk3399-Industry/u-boot/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.bfd     -r -o drivers/power/pmic/built-in.o drivers/power/pmic/pmic_rk808.o drivers/power/pmic/pmic_rk816.o drivers/power/pmic/pmic_rk818.o drivers/power/pmic/pmic_act8846.o drivers/power/pmic/pmic_ricoh619.o 

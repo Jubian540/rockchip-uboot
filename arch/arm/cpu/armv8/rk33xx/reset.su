@@ -1,0 +1,2 @@
+reset.c:19:6:rk_module_deinit	16	static
+reset.c:37:6:reset_cpu	16	static

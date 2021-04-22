@@ -1,0 +1,16 @@
+fusb302.c:125:13:disable_irq	32	static
+fusb302.c:55:5:fusb302_i2c_read	32	static
+fusb302.c:66:5:fusb302_i2c_write	48	static
+fusb302.c:77:5:fusb302_i2c_raw_write	32	static
+fusb302.c:88:5:fusb302_i2c_raw_read	32	static
+fusb302.c:140:12:tcpm_get_message.constprop	64	static
+fusb302.c:99:5:fusb302_i2c_update_bits	64	static
+fusb302.c:161:12:tcpm_get_cc.constprop	80	static
+fusb302.c:285:12:tcpm_set_rx_enable.part.5.constprop	16	static
+fusb302.c:433:13:tcpm_init.constprop	64	static
+fusb302.c:620:13:set_state_unattached.constprop	32	static
+fusb302.c:1057:13:cc_interrupt_handler	128	static
+fusb302.c:1127:5:get_pd_output_val	0	static
+fusb302.c:1141:5:get_pd_port_num	0	static
+fusb302.c:1152:6:typec_discharge	32	static
+fusb302.c:1161:5:fusb302_init	112	static

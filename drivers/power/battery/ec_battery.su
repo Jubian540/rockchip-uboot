@@ -1,0 +1,3 @@
+ec_battery.c:38:12:ec_battery_check	0	static
+ec_battery.c:43:12:ec_battery_update	64	static
+ec_battery.c:100:5:ec_battery_init	80	static

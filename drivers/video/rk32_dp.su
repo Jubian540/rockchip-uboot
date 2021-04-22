@@ -1,0 +1,3 @@
+rk32_dp.c:566:13:rk32_edp_set_lane_link_training.constprop	0	static
+rk32_dp.c:346:6:rk32_edp_rx_control	0	static
+rk32_dp.c:1138:5:rk32_edp_enable	160	static

@@ -1,0 +1,13 @@
+rockchip-dw-mipi-dsi.c:396:13:grf_field_write	0	static
+rockchip-dw-mipi-dsi.c:474:13:dw_mipi_dsi_phy_write	0	static
+rockchip-dw-mipi-dsi.c:1384:13:dw_mipi_dsi_connector_unprepare	0	static
+rockchip-dw-mipi-dsi.c:1392:12:dw_mipi_dsi_connector_enable	0	static
+rockchip-dw-mipi-dsi.c:1402:12:dw_mipi_dsi_connector_disable	0	static
+rockchip-dw-mipi-dsi.c:1090:12:dw_mipi_dsi_get_hcomponent_lbcc	32	static
+rockchip-dw-mipi-dsi.c:1276:13:dw_mipi_dsi_connector_deinit	32	static
+rockchip-dw-mipi-dsi.c:1209:12:dw_mipi_dsi_connector_init	64	static
+rockchip-dw-mipi-dsi.c:948:13:dw_mipi_dsi_video_mode_config	0	static
+rockchip-dw-mipi-dsi.c:1357:12:dw_mipi_dsi_connector_prepare	144	static
+rockchip-dw-mipi-dsi.c:783:16:dw_mipi_dsi_transfer	112	static
+rockchip-dw-mipi-dsi.c:939:16:dw_mipi_dsi_connector_transfer	0	static
+rockchip-dw-mipi-dsi.c:1572:12:dw_mipi_dsi_connector_fixup_dts	176	static

@@ -1,0 +1,9 @@
+fg_ricoh619.c:377:12:ricoh619_check_battery	48	static
+fg_ricoh619.c:38:5:pmu_debug	32	static
+fg_ricoh619.c:49:5:pmu_i2c_set	64	static
+fg_ricoh619.c:74:5:read_pmu_reg	48	static
+fg_ricoh619.c:80:5:write_pmu_reg	16	static
+fg_ricoh619.c:155:5:ricoh619_get_voltage	64	static
+fg_ricoh619.c:266:5:get_capcity	48	static
+fg_ricoh619.c:393:12:ricoh619_update_battery	96	static
+fg_ricoh619.c:415:5:fg_ricoh619_init	64	static

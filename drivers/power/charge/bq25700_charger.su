@@ -1,0 +1,5 @@
+bq25700_charger.c:92:12:bq25700_find_idx	0	static
+bq25700_charger.c:108:12:bq25700_charger_status	48	static
+bq25700_charger.c:135:12:bq25703_charger_status	48	static
+bq25700_charger.c:163:12:bq257xx_charger_status	0	static
+bq25700_charger.c:361:5:charger_bq25700_init	96	static

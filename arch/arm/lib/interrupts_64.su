@@ -1,0 +1,8 @@
+interrupts_64.c:29:6:show_regs	48	static
+interrupts_64.c:44:6:do_bad_sync	32	static
+interrupts_64.c:54:6:do_bad_irq	32	static
+interrupts_64.c:64:6:do_bad_fiq	32	static
+interrupts_64.c:74:6:do_bad_error	32	static
+interrupts_64.c:84:6:do_sync	32	static
+interrupts_64.c:106:6:do_fiq	32	static
+interrupts_64.c:119:13:do_error	32	static

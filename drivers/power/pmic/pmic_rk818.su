@@ -1,0 +1,8 @@
+pmic_rk818.c:193:12:rk818_regulator_set_voltage.isra.1	48	static
+pmic_rk818.c:127:5:rk818_regulator_disable	48	static
+pmic_rk818.c:149:5:rk818_regulator_enable	48	static
+pmic_rk818.c:353:5:pmic_rk818_init	128	static
+pmic_rk818.c:376:6:pmic_rk818_shut_down	48	static
+pmic_rk818.c:387:6:pmic_rk818_power_init	16	static
+pmic_rk818.c:395:6:pmic_rk818_power_on	0	static
+pmic_rk818.c:408:6:pmic_rk818_power_off	0	static

@@ -1,0 +1,2 @@
+rockchip-io-domain.c:41:5:rk3399_io_domain_init	48	static
+rockchip-io-domain.c:71:5:board_io_domain_init	0	static

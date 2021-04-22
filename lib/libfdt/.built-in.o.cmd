@@ -1,0 +1,1 @@
+cmd_lib/libfdt/built-in.o :=  /data/build/android-rk3399-Industry/u-boot/../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld.bfd     -r -o lib/libfdt/built-in.o lib/libfdt/fdt.o lib/libfdt/fdt_ro.o lib/libfdt/fdt_rw.o lib/libfdt/fdt_strerror.o lib/libfdt/fdt_sw.o lib/libfdt/fdt_wip.o lib/libfdt/fdt_empty_tree.o lib/libfdt/fdt_addresses.o 

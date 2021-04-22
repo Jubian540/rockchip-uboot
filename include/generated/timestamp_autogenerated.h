@@ -1,0 +1,3 @@
+#define U_BOOT_DATE "Apr 21 2021"
+#define U_BOOT_TIME "21:50:54"
+#define U_BOOT_TIMESTAMP "2021-04-21_21:50:54"

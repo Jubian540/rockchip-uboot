@@ -1,0 +1,6 @@
+rk322x_lcdc.c:741:6:rk_lcdc_set_par	128	static
+rk322x_lcdc.c:992:5:vop_wms_refresh	0	static
+rk322x_lcdc.c:1003:5:rk_lcdc_load_screen	64	static
+rk322x_lcdc.c:1295:6:rk_lcdc_standby	32	static
+rk322x_lcdc.c:1345:5:vop_vop_read_def_cfg	0	static
+rk322x_lcdc.c:1356:5:rk_lcdc_init	48	static

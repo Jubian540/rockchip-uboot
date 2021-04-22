@@ -1,0 +1,15 @@
+sdhciBoot.c:23:7:sdhci_block_read	32	static
+sdhciBoot.c:32:7:sdhci_block_write	32	static
+sdhciBoot.c:42:8:SdhciInit	32	static
+sdhciBoot.c:61:8:SdhciBootWritePBA	96	static
+sdhciBoot.c:83:8:SdhciBootReadPBA	112	static
+sdhciBoot.c:106:8:SdhciBootWriteLBA	0	static
+sdhciBoot.c:112:8:SdhciBootReadLBA	0	static
+sdhciBoot.c:118:6:SdhciReadID	0	static
+sdhciBoot.c:129:6:SdhciReadFlashInfo	0	static
+sdhciBoot.c:144:8:SdhciGetCapacity	0	static
+sdhciBoot.c:149:8:SdhciSysDataLoad	0	static
+sdhciBoot.c:154:8:SdhciSysDataStore	0	static
+sdhciBoot.c:159:8:SdhciGetFwOffset	0	static
+sdhciBoot.c:164:8:SdhciGetSysOffset	0	static
+sdhciBoot.c:170:8:SdhciBootErase	0	static

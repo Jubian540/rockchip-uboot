@@ -1,0 +1,15 @@
+sdhci.c:718:13:sdhci_enhanced_strobe	0	static
+sdhci.c:130:13:sdhci_reset.constprop	48	static
+sdhci.c:901:12:sdhci_pre_init.constprop	48	static
+sdhci.c:147:13:sdhci_cmd_done.constprop	0	static
+sdhci.c:985:12:sdhci_init.part.7.constprop	16	static
+sdhci.c:1020:12:sdhci_update	32	static
+sdhci.c:68:10:timer_us	0	static
+sdhci.c:402:12:sdhci_send_command	112	static
+sdhci.c:732:12:sdhci_execute_tuning	112	static
+sdhci.c:75:5:sdhci_config_phy	32	static
+sdhci.c:573:12:sdhci_set_clock.part.9.constprop	64	static
+sdhci.c:539:6:sdhci_set_uhs_signaling	48	static
+sdhci.c:817:13:sdhci_set_ios	48	static
+sdhci.c:1080:6:add_sdhci	0	static
+sdhci.c:1094:6:sdhci_reset_clock	0	static
